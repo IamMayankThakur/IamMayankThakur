@@ -1,8 +1,9 @@
 ### Hi there, I'm Mayank
 
 ### I'm a Software Engineer at Akamai!
+- I am a BTech in Computer Science from PES University, Bangalore
 - 🔭 I usually work with python and django.
-- 🌱 I’m currently learning golang, linux kernal and playing the guitar!
+- 🌱 I’m currently learning golang, linux kernel and playing the guitar!
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games.
 
