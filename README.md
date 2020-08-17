@@ -36,7 +36,9 @@
 
 ---
 
-<img align="left" alt="Mayank's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IamMayankThakur&show_icons=true&hide_border=true" />
+<img align="left" alt="Mayank's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IamMayankThakur&count_private=true&show_icons=true&hide_border=true&theme=radical" />
+
+<img align="left" alt="Mayank's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 [twitter]: https://twitter.com/TheMayankThakur
 [instagram]: https://instagram.com/IamMayankThakur
