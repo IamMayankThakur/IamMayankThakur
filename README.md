@@ -11,9 +11,17 @@
 
 ### Connect with me:
 
+![Profile Views](https://komarev.com/ghpvc/?username=iammayankthakur)
 [<img align="left" alt="Mayank | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mayank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mayank | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+---
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Mayank Spotify Playing" width="350" />](https://open.spotify.com/playlist/5KrH2hzMrxR4oaP0rBs5Mv?si=iuzNvy_mRfywii0KNqUt1g)
 
 <br />
 
