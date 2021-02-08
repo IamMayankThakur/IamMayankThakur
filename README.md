@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to django related technologies  
   
 
-- ⚡ Fun fact: I use spaces over tabs  
+- ⚡ I'm currently reading: Psychology of Money
   
 
 <br/>  
@@ -109,6 +109,9 @@
 
 <br/>  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamMayankThakur&layout=compact&langs_count=8&theme=vue)](https://github.com/IamMayankThakur)
+
+<br />
 
 ## Recent Blog Posts  
   
