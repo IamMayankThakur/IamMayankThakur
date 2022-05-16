@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mayank, a full-time full-stack developer 👨‍💻 working for Akamai Technologies</div>  
+### <div align="center">I'm Mayank, a Software Engineer 👨‍💻 working for Pronto, previously at Akamai Technologies </div>  
   
 
 - 🌱 I’m currently learning Rust  
